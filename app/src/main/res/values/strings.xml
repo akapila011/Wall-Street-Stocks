@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wall Street Stocks</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="sector_performance_tab_header">Sector Performances</string>
+    <string name="lookup_tab_header">Lookup Stocks</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+
+</resources>
