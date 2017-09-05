@@ -1,5 +1,5 @@
 # Wall Street Stocks
-<img src="https://github.com/akapila011/Wall-Street-Stocks/blob/master/Resources/wall-street-bull.png?raw=true" alt="logo" width="48"/>
+<img src="Resources/wall-street-bull.png?raw=true" alt="logo" width="48"/>
 
 A simple android application that allows users to have a quick at various sector performances for the day 
 ( e.g. Health sector), as well as lookup stock values for specific companies using their ticker symbols.
@@ -17,10 +17,10 @@ If you have not yet built the project, please look below and ensure you have a c
 Once the application is installed it is very straight forward to use. Open the application and you will notice 
 that there are 2 tabs:
 * The first tab ("Sector Performances"), has a refresh button that lets you load the latest changes for all sectors.
-<img src="https://github.com/akapila011/Wall-Street-Stocks/blob/master/Resources/SectorPerformance.png?raw=true" alt="Sector Performances tab"/>
+<img src="Resources/SectorPerformance.png?raw=true" alt="Sector Performances tab"/>
 
 * The second tab("Lookup Stocks"), allows you to enter a company stock ticker and then retrieve the latest quotes. 
-<img src="https://github.com/akapila011/Wall-Street-Stocks/blob/master/Resources/LookUpStock.png?raw=true" alt="Lookup Stocks tab"/>
+<img src="Resources/LookUpStock.png?raw=true" alt="Lookup Stocks tab"/>
 
 ## Build
 
