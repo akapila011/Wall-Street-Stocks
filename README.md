@@ -33,4 +33,4 @@ public class Config {
     public static final String API_KEY = "YOUR KEY HERE";
 }
 ```
-**Note: You must visit <a href="https://www.alphavantage.co/support/#api-key" target="_blank>Alpha Vantage</a> and get your own API key and replace the value for API_KEY**
+**Note: You must visit [Alpha Vantage](https://www.alphavantage.co/support/#api-key) and get your own API key and replace the value for API_KEY**
